@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\n\ Classe\ Room\ -\ un\ lieu\ du\ jeu\ d'aventure\ Zuul.\n\n\ @author\ Abel\ DIDOUH\n
+comment1.params=pDescription
+comment1.target=Room(java.lang.String)
+comment1.text=\n\ Constructeur\ naturel\n\ @param\ pDescription\ chaine\ pour\ initialiser\ aDescription\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\nAccesseur\ sur\ l'attribut\ aDescription\n
+comment3.params=pNorthExit\ pEastExit\ pSouthExit\ pWestExit
+comment3.target=void\ setExits(Room,\ Room,\ Room,\ Room)
+comment3.text=\n\ Modificateur\n\ @param\ pNorthExit\ Room\ pour\ modifier\ l'attribut\ aNorthExit\n\ @param\ pEastExit\ \ Room\ pour\ modifier\ l'attribut\ aEastExit\n\ @param\ pSouthExit\ Room\ pour\ modifier\ l'attribut\ aSouthExit\n\ @param\ pWestExit\ \ Room\ pour\ modifier\ l'attribut\ aWestExit\n
+numComments=4
